@@ -17,7 +17,7 @@ d=np.array([1,2,3],dtype=float)
 print(d)
 
 # bool type
-e=np.array([1,2,3],dtype=bool)
+e=np.array([0,2,3],dtype=bool)
 print(e)
 
 f=np.array([1,2,3],dtype=int)
